@@ -10,6 +10,12 @@ Compile
 npm run compile
 ```
 
+Dist
+---
+```
+npm run dist
+```
+
 Start
 ---
 ```
